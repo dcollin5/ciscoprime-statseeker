@@ -1,0 +1,8 @@
+{
+    "base_url": "https://<username>:<password>@<cisco_prime_url>/webacs/api/v4/",
+    "username": "cisco_prime_username",
+    "password": "cisco_prime_password",
+    "ss_server" : "statseeker_ip_address",
+    "ss_user": "statseeker_username",
+    "ss_pword": "statseeker_password"
+}
